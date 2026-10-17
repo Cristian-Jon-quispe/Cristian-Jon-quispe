@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 I'm Cristian Quispe
 
-<!--
-**Cristian-Jon-quispe/Cristian-Jon-quispe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️ Engineering student interested in **industrial automation, electronics, and programming**.
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Engineering student.
+- ⚡ Interested in electronics and control systems.
+- 🏭 Learning about PLCs and industrial instrumentation.
+- 💻 Developing projects and improving my programming skills.
+- 🌱 Always eager to learn new technologies.
+
+### 🛠️ Technologies & Interests
+
+- **Programming:** C
+- **Electronics:** Arduino and electronic circuits
+- **Industrial Automation:** Siemens PLCs and control systems
+- **Digital Design:** VHDL and Quartus
+
+### 📂 My Projects
+
+Here, I share projects, practical exercises, and engineering-related work.
+
+### 📫 How to Reach Me
+
+- GitHub: [@Cristian-Jon-quispe7](https://github.com/Cristian-Jon-quispe)
+
+---
+
+*Learning, building, and creating technological solutions.*
